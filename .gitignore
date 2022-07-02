@@ -135,5 +135,5 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/solidity
 
 test*
-.dept*
+.deps*
 contracts/artifacts*
